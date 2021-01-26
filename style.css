@@ -1,0 +1,9 @@
+.grid-container {
+    background-color: rgb(223, 219, 215);
+    display: grid;
+}
+
+.grid-item {
+    /*border: 1px solid;*/
+    padding-bottom: 100%;
+}
